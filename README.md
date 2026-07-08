@@ -16,6 +16,7 @@
 | **카카오**    | https://tech.kakao.com/blog                               |
 | **네이버**    | https://d2.naver.com/home      |
 
+
 ---
 
 ## 해외 기업 기술 블로그
