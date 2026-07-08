@@ -15,6 +15,7 @@
 | **토스**     | https://toss.tech/             |
 | **카카오**    | https://tech.kakao.com/blog                               |
 | **네이버**    | https://d2.naver.com/home      |
+| **네이버**| https://d2.naver.com/home |
 
 ---
 
